@@ -1,0 +1,341 @@
+Company Name,Skills for SDE1 Role,Expected CTC (In LPA)
+Tower Research,"Strong math, problem-solving, low-latency trading, C++",44
+Microsoft,"Data structures, system design, algorithms, coding, Azure, C++",46
+Nutanix,"Cloud computing, system architecture, AWS, Python, DevOps",47.9
+Uber,"System design, distributed systems, algorithms, Java, Spring Boot, React Native",61
+CRED,"Backend systems, problem-solving, Python, Spring Boot, MongoDB",46
+Adobe,"Data structures, algorithms, Python, Java, AWS, DevOps",44
+Salesforce,"Cloud computing, AWS, scalable systems, Java, Python",42
+Amazon,"Data structures, algorithms, scalable systems, AWS, Java",45
+Sprinklr,"Full-stack development, MongoDB, AWS, React Native, Python",30
+Palo Alto Networks,"Cybersecurity, DevOps, Python, AWS",54.75
+BNY Mellon,"Financial systems, data structures, problem-solving, Python, Java",21-24
+Atlassian,"Cloud-based tools, problem-solving, backend development, AWS, Java",83.4
+BharatX,"Data structures, mobile development, React Native, Java",54
+Zomato,"Backend development, problem-solving, MongoDB, Spring Boot, AWS",45
+AppDynamics,"Data structures, performance optimization, Python, AWS",44.2
+Expedia Group,"Full-stack development, scalable systems, React Native, AWS, Java",40
+Electronic Arts,"Game development, performance optimization, C++, Python",38
+Media.net,"Ad tech, system architecture, AWS, Java, Spring Boot",38
+Meesho,"Backend development, scalable systems, AWS, MongoDB",37
+DE Shaw & Co,"Financial systems, algorithms, data structures, Python, Java",36.5
+Arcesium,"Financial systems, backend development, problem-solving, Java, Spring Boot",36
+Data Insights,"Data analytics, scalable systems, Python, MongoDB, AWS",36
+Trilogy Innovations,"Algorithms, system design, problem-solving, Java, Python",36
+Airbnb,"Scalable systems, distributed systems, Java, Python, AWS",34.8
+Visa,"Payment systems, backend development, Python, Java, AWS",34.5
+PayPal,"Payment systems, full-stack development, Java, MongoDB",34.4
+Qualcomm,"Embedded systems, scalable systems, C++, Python",34.35
+ShareChat,"Backend development, scalable systems, Java, Python",34
+Texas Instruments,"Embedded systems, digital systems, C++, Python",32.56
+Commvault Systems,"Data management, scalable systems, AWS, DevOps",31
+LinkedIn,"Social networking, scalable systems, Java, Spring Boot",31
+Blinkit (Grofers),"Full-stack development, scalable systems, MongoDB, React Native",31
+Apollo247,"Backend development, problem-solving, MongoDB, AWS, Python",30
+Pocketpills,"Full-stack development, scalable systems, React Native, Python",30
+nurture.farm,"Backend development, scalable systems, data analytics, Python, AWS",29.8
+Razorpay,"Payment systems, backend development, AWS, MongoDB, Spring Boot",29
+Morgan Stanley,"Financial systems, backend development, Python, Java, AWS",28.33
+Zynga,"Game development, backend development, C++, Java",28
+Hella Infra Market,"Full-stack development, scalable systems, Java, AWS",27.5
+Juspay,"Payment systems, backend development, Spring Boot, MongoDB",27
+Providence,"Backend development, scalable systems, data analytics, AWS, Python",27
+Human Holdings,"Data science, machine learning, problem-solving, Python, AI",26.65
+Walmart Global Tech India,"Full-stack development, scalable systems, AWS, React Native",26.5
+Gullak Money,"Full-stack development, data structures, Java, MongoDB",25
+OfBusiness,"Backend development, scalable systems, Java, Spring Boot",25
+Cisco,"Network development, embedded systems, AWS, Python, Java",24.73
+SAP Labs,"Enterprise resource planning, backend development, Java, AWS",24.5
+Flexcar IDC,"Full-stack development, scalable systems, React Native, AWS",24.15
+Sembly,"Natural language processing, data science, AI, Python",24
+Wells Fargo,"Financial systems, backend development, Java, Spring Boot",23.5
+Steradian Semiconductors,"Embedded systems, digital systems, C++, Python",23
+Slice,"Payment systems, scalable systems, backend development, AWS, MongoDB",23
+Silicon Labs,"Embedded systems, digital systems, scalable systems, C++",22.98
+BYJU'S,"Backend development, mobile development, React Native, Java",22
+Cashfree,"Payment systems, backend development, AWS, MongoDB",22
+Goldman Sachs,"Financial systems, math fundamentals, problem-solving, Java, Spring Boot",22
+Harness,"Backend development, problem-solving, scalable systems, AWS, MongoDB",22
+Komprise India,"Data management, scalable systems, Python, Java",22
+Maxlinear Technologies,"Embedded systems, digital systems, C++, Python",22
+JP Morgan Chase,"Financial systems, backend development, Python, Java",21.5
+Chargebee,"Subscription management, full-stack development, Python, AWS",21
+HyperVerge,"Deep learning, machine learning, data science, AI, Python",21
+Samsung Semiconductor India,"Embedded systems, digital systems, backend development, C++",21
+Schlumberger,"Oil & gas systems, embedded systems, C++, Python",21
+Udaan,"Full-stack development, scalable systems, AWS, MongoDB",21
+Nykaa,"Backend development, problem-solving, data analytics, Python, AWS",21
+Flipkart, E-commerce systems, scalable systems, Java, Spring Boot, 26
+Swiggy, Backend systems, problem-solving, Python, MongoDB, 24
+Ola, Mobile development, scalable systems, Java, React Native, 30
+Swiggy Instamart, Supply chain systems, backend development, Python, AWS, 28
+PhonePe, Payment systems, backend development, Java, MongoDB, 28
+Gojek, Backend development, distributed systems, Java, Python, 40
+Bigbasket, Full-stack development, AWS, MongoDB, React Native, 26
+WhiteHat Jr, Backend development, scalable systems, Python, MongoDB, 21
+Rivigo, Supply chain optimization, backend development, Python, AWS, 25
+Deloitte, Consulting, problem-solving, system design, Java, 21
+Ernst & Young, Consulting, data structures, algorithms, Python, 22
+KPMG, Consulting, scalable systems, AWS, Java, 22
+ZS Associates, Consulting, problem-solving, data analytics, Python, 23
+McKinsey & Co, Consulting, system design, Python, AWS, 24
+Bain & Company, Consulting, scalable systems, AWS, Java, 23
+Tata Consultancy Services, Backend systems, scalable systems, Java, Spring Boot, 12
+Infosys, System design, backend development, Java, Python, 14
+Wipro, Backend development, scalable systems, AWS, Python, 14
+HCL Technologies, Cloud systems, problem-solving, AWS, Java, 13.5
+Tech Mahindra, Backend systems, scalable systems, Python, Java, 13
+Mindtree, Cloud computing, system design, AWS, Python, 15
+LTI, Backend systems, problem-solving, Java, AWS, 14
+Mphasis, System design, scalable systems, Java, Python, 13.5
+Hexaware Technologies, Backend systems, cloud computing, AWS, Java, 12
+Zensar Technologies, Cloud computing, scalable systems, Python, Java, 12.5
+Capgemini, System design, cloud computing, AWS, Java, 15
+Persistent Systems, Full-stack development, scalable systems, React, Python, 13
+Tavant Technologies, Cloud computing, AWS, system design, Java, 15
+Cognizant, Consulting, system design, AWS, Java, 12.5
+Mu Sigma, Data analytics, problem-solving, Python, AWS, 15
+Fractal Analytics, Data science, machine learning, Python, AWS, 19
+Tiger Analytics, AI/ML, scalable systems, Python, Java, 18
+L&T Infotech, Backend systems, cloud computing, AWS, Java, 13
+Happiest Minds, Cloud computing, scalable systems, Python, Java, 14
+Cyient, Backend systems, problem-solving, Java, Python, 13
+Virtusa, Backend systems, scalable systems, Java, Spring Boot, 12.5
+UST Global, Backend development, scalable systems, Python, AWS, 14
+Nagarro, System design, scalable systems, AWS, Java, 12.5
+Infogain, Cloud systems, scalable systems, AWS, Java, 13
+PWC India, Consulting, data analytics, Python, AWS, 22
+Dunzo, Backend systems, problem-solving, Python, MongoDB, 24
+Treebo Hotels, Backend development, scalable systems, Java, MongoDB, 22
+Urban Company, Backend systems, scalable systems, Python, MongoDB, 26
+NoBroker, Backend systems, scalable systems, Java, Spring Boot, 25
+Rapido, Backend systems, scalable systems, Java, MongoDB, 23
+Livspace, Full-stack development, scalable systems, Java, React Native, 25
+Licious, Backend development, scalable systems, AWS, MongoDB, 26
+Bounce, Mobile development, problem-solving, Java, React Native, 25
+Groww, Fintech systems, backend development, Python, AWS, 30
+Zerodha, Fintech systems, problem-solving, Java, Python, 32
+Upstox, Fintech systems, scalable systems, Java, Spring Boot, 31
+PolicyBazaar, Backend systems, scalable systems, Java, Python, 30
+ClearTax, Fintech systems, problem-solving, Python, AWS, 26
+Smallcase, Fintech systems, backend development, Python, Java, 28
+Yulu, Backend systems, mobile development, React Native, Java, 24
+BlueStone, E-commerce systems, backend development, Python, AWS, 23
+AJIO, E-commerce systems, scalable systems, Java, MongoDB, 26
+Netmeds, Backend systems, scalable systems, AWS, Java, 24
+Myntra, E-commerce systems, problem-solving, Java, Python, 28
+Tata 1mg, Healthcare systems, backend development, AWS, MongoDB, 25
+Medlife, Backend systems, problem-solving, Python, Java, 23
+CureFit, Healthcare systems, scalable systems, Java, Spring Boot, 24
+Practo, Healthcare systems, backend development, Python, MongoDB, 25
+Porter, Logistics systems, scalable systems, Java, AWS, 27
+RentoMojo, Full-stack development, scalable systems, React Native, Java, 26
+Furlenco, Full-stack development, backend systems, Python, MongoDB, 25
+Zepto, Backend systems, problem-solving, Java, Spring Boot, 28
+Lenskart, E-commerce systems, scalable systems, Java, AWS, 26
+Delhivery, Logistics systems, scalable systems, Java, Python, 30
+Shadowfax, Backend systems, problem-solving, Python, MongoDB, 25
+UrbanClap, Full-stack development, scalable systems, AWS, React Native, 26
+HomeLane, E-commerce systems, backend development, Python, Java, 24
+Pepperfry, E-commerce systems, scalable systems, AWS, Java, 25
+Swiggy Genie, Backend systems, problem-solving, Python, AWS, 26
+Jio, Telecom systems, scalable systems, Java, Python, 22
+Airtel, Telecom systems, backend development, Python, AWS, 24
+Vodafone Idea, Telecom systems, scalable systems, Java, MongoDB, 24
+Reliance Retail, E-commerce systems, backend development, Java, AWS, 26
+OYO Rooms, Hotel management systems, backend development, Python, MongoDB, 24
+Treebo, Hotel management systems, scalable systems, Java, Spring Boot, 23
+GoMechanic, Automotive systems, scalable systems, Java, AWS, 24
+Spinny, Automotive systems, problem-solving, Java, MongoDB, 25
+Cars24, Automotive systems, backend development, Python, AWS, 26
+Drivezy, Automotive systems, scalable systems, Java, Spring Boot, 24
+Zoomcar, Automotive systems, backend development, Java, MongoDB, 23
+Scripbox, Fintech systems, scalable systems, Python, Java, 27
+Growfit, Healthtech systems, backend development, Python, MongoDB, 23
+Plum, Healthtech systems, scalable systems, Java, AWS, 22
+AgricxLab, AgriTech, scalable systems, Python, Java, 24
+Dehaat, AgriTech systems, problem-solving, Java, Python, 22
+Ninjacart, AgriTech systems, scalable systems, Python, AWS, 25
+Unnati, AgriTech systems, backend development, Java, Spring Boot, 22
+Waycool, AgriTech systems, scalable systems, Python, AWS, 24
+Blackbuck, Logistics systems, scalable systems, Python, AWS, 28
+Xpressbees, Logistics systems, backend development, Java, MongoDB, 27
+ElasticRun, Logistics systems, scalable systems, Python, Java, 28
+Shiprocket, Logistics systems, scalable systems, AWS, Java, 27
+Ecom Express, Logistics systems, backend development, Java, MongoDB, 26
+Rivigo, Logistics systems, scalable systems, Python, Spring Boot, 27
+Tata Elxsi, Embedded systems, scalable systems, C++, Python, 18
+KPIT Technologies, Automotive software, embedded systems, C, MATLAB, 17
+Mindtree, Backend development, scalable systems, Java, Spring Boot, 14
+Zomato, E-commerce systems, backend development, Python, MongoDB, 26
+Paytm, Fintech systems, backend development, Java, Spring Boot, 26
+Mobikwik, Fintech systems, scalable systems, Python, AWS, 24
+Razorpay, Fintech systems, backend development, Java, MongoDB, 30
+CRED, Fintech systems, problem-solving, Python, MongoDB, 35
+Meesho, E-commerce systems, backend development, Java, Spring Boot, 28
+Unacademy, Edtech systems, scalable systems, Java, Python, 28
+Byju's, Edtech systems, backend development, Python, AWS, 25
+Vedantu, Edtech systems, scalable systems, Java, MongoDB, 26
+Toppr, Edtech systems, problem-solving, Python, MongoDB, 24
+Testbook, Edtech systems, backend development, Java, Spring Boot, 23
+Doubtnut, Edtech systems, scalable systems, Python, AWS, 22
+Gradeup, Edtech systems, backend development, Java, MongoDB, 21
+Coursera, Edtech systems, problem-solving, Python, AWS, 30
+Udemy, Edtech systems, backend development, Java, Spring Boot, 28
+Spotify, Audio streaming systems, scalable systems, Python, AWS, 35
+Gaana, Audio streaming systems, backend development, Java, MongoDB, 28
+Saavn, Audio streaming systems, scalable systems, Python, Spring Boot, 27
+Wynk, Audio streaming systems, backend development, Java, AWS, 24
+Prime Video, Video streaming systems, scalable systems, Python, AWS, 40
+Netflix, Video streaming systems, problem-solving, Java, Spring Boot, 45
+Hotstar, Video streaming systems, backend development, Python, MongoDB, 35
+Sony Liv, Video streaming systems, scalable systems, Java, AWS, 32
+Voot, Video streaming systems, backend development, Python, Spring Boot, 30
+Zee5, Video streaming systems, scalable systems, Java, AWS, 32
+MX Player, Video streaming systems, backend development, Python, MongoDB, 29
+Dailyhunt, News aggregation systems, scalable systems, Java, Spring Boot, 26
+Inshorts, News aggregation systems, backend development, Python, AWS, 25
+YourStory, News systems, problem-solving, Python, MongoDB, 23
+Firstpost, News systems, backend development, Java, Spring Boot, 24
+Times Internet, News aggregation systems, scalable systems, Python, AWS, 26
+Indian Express, News systems, problem-solving, Java, MongoDB, 24
+NDTV, News systems, backend development, Python, AWS, 23
+Moneycontrol, Financial systems, scalable systems, Java, MongoDB, 28
+BloombergQuint, Financial systems, backend development, Python, AWS, 30
+CNBC TV18, Financial systems, problem-solving, Java, Spring Boot, 27
+Economic Times, News aggregation systems, scalable systems, Python, AWS, 26
+Yahoo Finance, Financial systems, backend development, Java, MongoDB, 31
+Mint, News systems, scalable systems, Python, AWS, 25
+Business Standard, News systems, backend development, Java, MongoDB, 23
+Hindustan Times, News systems, scalable systems, Python, Spring Boot, 25
+The Times of India, News aggregation systems, problem-solving, Java, AWS, 26
+The Hindu, News systems, backend development, Python, MongoDB, 24
+The Indian Express, News systems, scalable systems, Java, Spring Boot, 22
+Financial Express, Financial systems, backend development, Python, AWS, 25
+Business Insider, News systems, scalable systems, Java, MongoDB, 27
+Forbes India, News systems, backend development, Python, AWS, 28
+Gartner, Research systems, scalable systems, Java, MongoDB, 30
+Glassdoor, Employment systems, backend development, Python, AWS, 30
+Indeed, Employment systems, problem-solving, Java, MongoDB, 28
+Naukri, Employment systems, backend development, Python, AWS, 27
+Monster, Employment systems, scalable systems, Java, Spring Boot, 26
+LinkedIn, Employment systems, backend development, Python, MongoDB, 40
+HackerRank, Developer platforms, scalable systems, Python, AWS, 35
+Leetcode, Developer platforms, backend development, Java, Spring Boot, 35
+Codeforces, Developer platforms, scalable systems, Python, MongoDB, 32
+Codechef, Developer platforms, problem-solving, Java, AWS, 30
+StackOverflow, Developer platforms, scalable systems, Python, MongoDB, 36
+GeeksforGeeks, Developer platforms, backend development, Java, Spring Boot, 28
+Wikipedia, Knowledge systems, scalable systems, Python, MongoDB, 35
+Quora, Knowledge systems, backend development, Java, AWS, 34
+Reddit, Social media systems, scalable systems, Python, MongoDB, 40
+Facebook, Social media systems, backend development, Java, Spring Boot, 45
+Twitter, Social media systems, scalable systems, Python, AWS, 42
+Instagram, Social media systems, backend development, Java, MongoDB, 40
+Snapchat, Social media systems, scalable systems, Python, Spring Boot, 42
+Pinterest, Social media systems, backend development, Java, AWS, 38
+WhatsApp, Messaging systems, scalable systems, Python, MongoDB, 50
+Signal, Messaging systems, backend development, Java, Spring Boot, 45
+Telegram, Messaging systems, scalable systems, Python, AWS, 46
+Slack, Communication platforms, backend development, Java, MongoDB, 45
+Discord, Communication platforms, scalable systems, Python, Spring Boot, 40
+Zoom, Video communication, backend development, Java, AWS, 50
+Microsoft Teams, Video communication, scalable systems, Python, MongoDB, 52
+Skype, Video communication, backend development, Java, Spring Boot, 48
+Google Meet, Video communication, scalable systems, Python, AWS, 54
+Cisco Webex, Video communication, backend development, Java, MongoDB, 50
+Ola Electric, Embedded systems, scalable systems, C++, Python, 40
+Delhivery, Logistics systems, scalable systems, Java, AWS, 35
+Rivigo, Logistics systems, backend development, Python, MongoDB, 34
+BlackBuck, Logistics systems, scalable systems, Java, Spring Boot, 32
+Shadowfax, Logistics systems, backend development, Python, AWS, 30
+RazorpayX, Fintech systems, scalable systems, Java, MongoDB, 45
+Pine Labs, Payment systems, backend development, Python, Spring Boot, 40
+CureFit, Healthtech, backend development, Python, MongoDB, 38
+Practo, Healthtech, scalable systems, Java, AWS, 37
+HealthifyMe, Healthtech, backend development, Python, Spring Boot, 35
+1mg, Healthtech, scalable systems, Java, MongoDB, 36
+MedLife, Healthtech, backend development, Python, AWS, 34
+Porter, Logistics systems, scalable systems, Java, MongoDB, 36
+Vogo, Ride-sharing systems, backend development, Python, AWS, 32
+Zoom, Video conferencing, scalable systems, Java, Spring Boot, 55
+WebEngage, SaaS systems, backend development, Python, MongoDB, 32
+MoEngage, SaaS systems, scalable systems, Java, AWS, 33
+Pendo, SaaS systems, backend development, Python, Spring Boot, 35
+SendGrid, SaaS systems, scalable systems, Java, MongoDB, 38
+Postman, API platform, backend development, Python, AWS, 40
+BrowserStack, Testing platforms, scalable systems, Java, Spring Boot, 42
+LambdaTest, Testing platforms, backend development, Python, MongoDB, 36
+TestSigma, Testing platforms, scalable systems, Java, AWS, 34
+Zoho, SaaS systems, backend development, Python, Spring Boot, 34
+Freshworks, SaaS systems, scalable systems, Java, MongoDB, 36
+Chargebee, Subscription systems, backend development, Python, AWS, 38
+Grofers, E-commerce, backend development, Java, Spring Boot, 36
+Udaan, E-commerce, scalable systems, Python, AWS, 35
+Meesho, E-commerce, backend development, Java, MongoDB, 34
+Paytm Money, Fintech, scalable systems, Python, Spring Boot, 36
+Smallcase, Fintech, backend development, Java, AWS, 35
+Groww, Fintech, scalable systems, Python, MongoDB, 38
+CoinSwitch, Fintech, backend development, Java, Spring Boot, 40
+WazirX, Fintech, scalable systems, Python, AWS, 42
+ZebPay, Fintech, backend development, Java, MongoDB, 34
+Vauld, Fintech, scalable systems, Python, Spring Boot, 36
+CoinDCX, Fintech, backend development, Java, AWS, 39
+OKEx, Fintech, scalable systems, Python, MongoDB, 38
+Binance, Fintech, backend development, Java, Spring Boot, 40
+Bitbns, Fintech, scalable systems, Python, AWS, 34
+Instamojo, Fintech, backend development, Java, MongoDB, 32
+Setu, Fintech, scalable systems, Python, Spring Boot, 36
+MobiKwik, Payment systems, backend development, Java, AWS, 35
+Razorpay, Payment systems, scalable systems, Python, MongoDB, 40
+Zeta, Payment systems, backend development, Java, Spring Boot, 42
+Open, Fintech, scalable systems, Python, AWS, 38
+Creditas, Fintech, backend development, Java, MongoDB, 37
+Jupiter, Fintech, scalable systems, Python, Spring Boot, 34
+Fampay, Fintech, backend development, Java, AWS, 32
+Kuvera, Fintech, scalable systems, Python, MongoDB, 33
+Zerodha, Fintech, backend development, Java, Spring Boot, 36
+Groww, Fintech, scalable systems, Python, AWS, 38
+Upstox, Fintech, backend development, Java, MongoDB, 39
+BankBazaar, Fintech, scalable systems, Python, Spring Boot, 35
+CreditMantri, Fintech, backend development, Java, AWS, 34
+Navi, Fintech, scalable systems, Python, MongoDB, 36
+Fibe, Fintech, backend development, Java, Spring Boot, 30
+SlicePay, Fintech, scalable systems, Python, AWS, 32
+mSwipe, Payment systems, backend development, Java, MongoDB, 35
+PayNearby, Payment systems, scalable systems, Python, Spring Boot, 34
+Capital Float, Fintech, backend development, Java, AWS, 36
+NeoGrowth, Fintech, scalable systems, Python, MongoDB, 38
+Faircent, Fintech, backend development, Java, Spring Boot, 34
+Lendingkart, Fintech, scalable systems, Python, AWS, 35
+Clix Capital, Fintech, backend development, Java, MongoDB, 33
+ZestMoney, Fintech, scalable systems, Python, Spring Boot, 36
+MoneyTap, Fintech, backend development, Java, AWS, 34
+CASHe, Fintech, scalable systems, Python, MongoDB, 36
+Paysense, Fintech, backend development, Java, Spring Boot, 33
+EarlySalary, Fintech, scalable systems, Python, AWS, 32
+FinBox, Fintech, backend development, Java, MongoDB, 35
+Kissht, Fintech, scalable systems, Python, Spring Boot, 32
+MoneyView, Fintech, backend development, Java, AWS, 34
+BharatPe, Fintech, scalable systems, Python, MongoDB, 36
+Freo, Fintech, backend development, Java, Spring Boot, 33
+Slicepay, Fintech, scalable systems, Python, AWS, 34
+IDfy, Fintech, backend development, Java, MongoDB, 32
+CashKaro, Cashback systems, scalable systems, Python, Spring Boot, 34
+CouponDunia, Cashback systems, backend development, Java, AWS, 33
+Magicpin, Cashback systems, scalable systems, Python, MongoDB, 36
+Nearbuy, Cashback systems, backend development, Java, Spring Boot, 34
+Dineout, Hospitality systems, scalable systems, Python, AWS, 36
+Tableau, Data visualization, backend development, Python, Spring Boot, 60
+Looker, Data analytics, scalable systems, Java, MongoDB, 58
+Sisense, Data analytics, backend development, Python, AWS, 55
+Domo, Data analytics, scalable systems, Java, Spring Boot, 53
+Metabase, Data analytics, backend development, Python, MongoDB, 50
+Power BI, Data visualization, scalable systems, Java, AWS, 48
+Qlik, Data visualization, backend development, Python, Spring Boot, 46
+GoodData, Data analytics, scalable systems, Java, MongoDB, 44
+Sigma Computing, Data analytics, backend development, Python, AWS, 42
+Periscope Data, Data analytics, scalable systems, Java, Spring Boot, 40
+Birst, Data analytics, backend development, Python, MongoDB, 38
+Yellowfin, Data visualization, scalable systems, Java, AWS, 36
+
