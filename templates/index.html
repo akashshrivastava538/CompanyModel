@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Skill Matcher</title>
+</head>
+<body>
+    <h1>Find Top Companies Based on Your Skills</h1>
+    <form method="post">
+        <label for="skills">Enter Skills (comma-separated):</label>
+        <input type="text" id="skills" name="skills" required>
+        <button type="submit">Submit</button>
+    </form>
+
+    {% if companies %}
+    <h2>Top 5 Company Matches:</h2>
+    <ul>
+        {% for company in companies %}
+        <li>
+            <strong>{{ company.company_name }}</strong> - Expected Salary: ${{ company.salary }} 
+            <br>Matched Skills: {{ company.matched_skills | join(', ') }} 
+            <br>Match Score: {{ company.match_score }}
+        </li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p>No matches found. Try different skills.</p>
+    {% endif %}
+</body>
+</html>
