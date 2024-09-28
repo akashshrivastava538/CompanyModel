@@ -18,7 +18,7 @@
     <ul>
         {% for company in companies %}
         <li>
-            <strong>{{ company.company_name }}</strong> - Expected Salary: ${{ company.salary }} 
+            <strong>{{ company.company_name }}</strong> - Expected Salary: Rs {{ company.salary }} LPA
             <br>Matched Skills: {{ company.matched_skills | join(', ') }} 
             <br>Match Score: {{ company.match_score }}
         </li>
