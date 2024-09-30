@@ -1,0 +1,102 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i.pinimg.com/736x/09/18/de/0918de2bda2c32cfbb4566ed4f8e9834.jpg'); /* Your provided image URL */
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Center the image */
+    background-attachment: fixed; /* Fixes the background image while scrolling */
+    min-height: 100vh; /* Ensure the body takes the full height of the viewport */
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Slight transparency for readability */
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Enhanced shadow for a stronger look */
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    font-weight: bold; /* Make header bold */
+}
+
+h2 {
+    color: #444;
+    font-weight: bold; /* Make sub-header bold */
+}
+
+form {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input[type="text"] {
+    padding: 12px; /* Increased padding for a bolder look */
+    border: 2px solid #007BFF; /* Thicker border for better visibility */
+    border-radius: 4px;
+    width: 100%;
+    font-size: 16px; /* Increased font size */
+    font-weight: bold; /* Make input text bold */
+}
+
+button {
+    padding: 12px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px; /* Increased button text size */
+    font-weight: bold; /* Make button text bold */
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #e9ecef;
+    border-radius: 4px;
+    font-weight: bold; /* Make list items bold */
+}
+
+strong {
+    color: #007bff;
+}
+
+.read-more-link {
+    display: inline-block; /* Makes it behave like a button */
+    padding: 10px 15px;   /* Adds some padding */
+    margin-top: 10px;     /* Space above the link */
+    background-color: #007BFF; /* Bootstrap primary color */
+    color: white;         /* White text */
+    text-decoration: none; /* Removes underline */
+    border-radius: 5px;   /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition */
+    font-weight: bold; /* Make link text bold */
+}
+
+.read-more-link:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+
+
+
+
+
